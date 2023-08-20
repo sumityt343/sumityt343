@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumityt343
+- 👋 Hi, I’m @sumityt343 or you can call me just sumit.
 - 👀 I’m interested in Frontend and Backend technologies.
 - 🌱 I’m currently learning React, Node, MongoDB, Javascript, HTML & CSS.
 - 💞️ I’m looking for a job as a developer whether it's frontend or backend.
